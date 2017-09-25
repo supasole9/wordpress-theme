@@ -14,25 +14,24 @@
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="blog.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
+    <link href="grid.css" rel="stylesheet">
+
   </head>
 
   <body>
 
-    <div class="container">
-         <nav>
-              <div class="logo">
-                   <h2>Flat Earth</h2>
-              </div>
-              <ul>
-                   <li><a href="#">About</a></li>
-                   <li><a href="#">Why</a></li>
-                   <li><a href="#">How</a></li>
-                   <li><a href="#">Contact</a></li>
-              </ul>
-         </nav>
+    <div class="blog-masthead">
+      <div class="container">
+        <nav class="blog-nav">
+          <a class="blog-nav-item active" href="#">Home</a>
+          <a class="blog-nav-item" href="#">New features</a>
+          <a class="blog-nav-item" href="#">Press</a>
+          <a class="blog-nav-item" href="#">New hires</a>
+          <a class="blog-nav-item" href="#">About</a>
+        </nav>
+      </div>
     </div>
-    <hr />
 
     <div class="container">
 
