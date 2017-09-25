@@ -21,7 +21,7 @@
 
   <body>
 
-    <div class="blog-masthead">
+    <!-- <div class="blog-masthead">
       <div class="container">
         <nav class="blog-nav">
           <a class="blog-nav-item active" href="#">Home</a>
@@ -31,7 +31,21 @@
           <a class="blog-nav-item" href="#">About</a>
         </nav>
       </div>
+    </div> -->
+    <div class="container">
+         <nav>
+              <div class="logo">
+                   <h2>Flat Earth</h2>
+              </div>
+              <ul>
+                   <li><a href="#">About</a></li>
+                   <li><a href="#">Why</a></li>
+                   <li><a href="#">How</a></li>
+                   <li><a href="#">Contact</a></li>
+              </ul>
+         </nav>
     </div>
+    <hr />
 
     <div class="container">
 
