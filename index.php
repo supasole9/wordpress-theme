@@ -46,6 +46,17 @@
          </nav>
     </div>
     <hr />
+    <div class="container">
+         <div id="intro" class="row">
+              <div class="col6m col12s">
+                   <img src="flat-earth.png" alt="flat-earth" class="responsive">
+              </div>
+              <div id="intro-right" class="col6m col12s">
+                   <h1>Turning your world upside-down</h1>
+                   <a href="#">Open your eyes</a>
+              </div>
+         </div>
+    </div>
 
     <div class="container">
 
