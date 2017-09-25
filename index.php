@@ -14,12 +14,11 @@
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="style.css" rel="stylesheet">
-    <link href="grid.css" rel="stylesheet">
-
+    <link href="blog.css" rel="stylesheet">
   </head>
 
   <body>
+
     <div class="container">
          <nav>
               <div class="logo">
