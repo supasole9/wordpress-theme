@@ -15,7 +15,8 @@
 
     <!-- Custom styles for this template -->
     <link href="style.css" rel="stylesheet">
-    <link rel="stylesheet" href="grid.css" media="screen">
+    <link href="grid.css" rel="stylesheet">
+
   </head>
 
   <body>
