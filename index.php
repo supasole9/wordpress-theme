@@ -14,8 +14,8 @@
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="style.css" rel="stylesheet">
-    <link href="grid.css" rel="stylesheet">
+    <link href="<?php echo get_bloginfo( 'template_directory' );?>/style.css" rel="stylesheet">
+    <link href="<?php echo get_bloginfo( 'template_directory' );?>/grid.css" rel="stylesheet">
 
   </head>
 
