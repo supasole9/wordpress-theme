@@ -42,7 +42,8 @@ hr{
 
 #intro{
      display: flex;
-     align-items: center;   
+     align-items: center;
+
 }
 
 #intro-right h1{
