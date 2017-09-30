@@ -7,3 +7,6 @@
           </div>
      </div>
 </footer>
+<?php wp_footer(); // Crucial core hook! ?>
+</body>
+</html>
