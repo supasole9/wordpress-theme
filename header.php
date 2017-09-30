@@ -4,8 +4,8 @@
      <meta charset="UTF-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <meta http-equiv="X-UA-Compatible" content="ie=edge">
-     <link rel="stylesheet" href="style.css" media="screen">
-     <link rel="stylesheet" href="grid.css" media="screen">
+     <link href="<?php echo get_bloginfo( 'template_directory' );?>/style.css" rel="stylesheet">
+     <link href="<?php echo get_bloginfo( 'template_directory' );?>/grid.css" rel="stylesheet">
      <title>Flat Earth</title>
 </head>
 <body>
