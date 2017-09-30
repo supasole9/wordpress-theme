@@ -1,18 +1,26 @@
 
-@media (max-width:756px){
+@media (max-width:992px){
+.container {width:95%;}
+#intro img{
+     display: none;
+}
+#intro{
+     text-align: center;
 }
 
-@media (min-width:768px) {
-.container {width:750px;}
+}
+
+@media (min-width:779px) {
+.container {width:95%;}
 }
 
 @media (min-width:992px) {
-.container {width:970px;}
+.container {width:95%;}
 
 }
 
 @media (min-width:1200px) {
-.container {width:1170px;}
+.container {width:95%;}
 }
 
 .col1x, .col2x, .col3x, .col4x, .col5x, .col6x, .col7x, .col8x, .col9x, .col10x, .col11x, .col12x,.col1s, .col2s, .col3s, .col4s, .col5s, .col6s, .col7s, .col8s, .col9s, .col10s, .col11s, .col12s, .col1m, .col2m, .col3m, .col4m, .col5m, .col6m, .col7m, .col8m, .col9m, .col10m, .col11m, .col12m, .col1l, .col2l, .col3l, .col4l, .col5l, .col6l, .col7l, .col8l, .col9l, .col10l, .col11l, .col12l {
