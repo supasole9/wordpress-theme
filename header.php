@@ -15,12 +15,7 @@
                     <div class="logo">
                          <h2>Flat Earth</h2>
                     </div>
-                    <ul>
-                         <li><a href="#">About</a></li>
-                         <li><a href="#">Why</a></li>
-                         <li><a href="#">How</a></li>
-                         <li><a href="#">Contact</a></li>
-                    </ul>
+                    <?php wp_nav_menu();?>
                </nav>
           </div>
      </header>
